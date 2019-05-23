@@ -10,3 +10,9 @@ npm install gitbook-cli -g
 
 查看版本：
 
+```
+gitbook -V
+```
+
+
+
