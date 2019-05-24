@@ -5,7 +5,7 @@
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "structure": {
-        "readme": "README.md"
+        "readme": "introduction.md"
     },
     "links": {
         "sidebar": {
@@ -17,7 +17,6 @@
         "splitter",
         "expandable-chapters-small",
         "anchors",
-
         "github",
         "github-buttons",
         "sharing-plus",
