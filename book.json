@@ -1,7 +1,7 @@
 {
-    "title": "Blankj's Glory",
-    "author": "Blankj",
-    "description": "select * from learn",
+    "title": "Gitbook Test",
+    "author": "Changze",
+    "description": "学习 gitbook",
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "structure": {
@@ -9,7 +9,7 @@
     },
     "links": {
         "sidebar": {
-            "我的狗窝": "https://blankj.com"
+            "本书地址": "https://changze.gitbook.io/testgitbook"
         }
     },
     "plugins": [
